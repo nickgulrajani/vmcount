@@ -3,7 +3,7 @@ terraform {
     organization = "cdw-dash"
 
     workspaces {
-      name = "test"
+      name = "newvmcount"
     }
   }
 }
